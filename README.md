@@ -1,3 +1,5 @@
+Aplicação criada por Tyler Potts, greetings from brazil Tyler, /watch?v=JLc-hWsPTUY
+ 
 # vue-weather
 
 ## Project setup
